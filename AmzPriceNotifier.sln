@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceShare", "PriceShare\PriceShare.csproj", "{1BA08572-C11B-4BAC-A70B-71F5BA95B444}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebScraper", "WebScraper\WebScraper.fsproj", "{A123B48F-2328-499F-AB5A-4EEB47D71D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA08572-C11B-4BAC-A70B-71F5BA95B444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA08572-C11B-4BAC-A70B-71F5BA95B444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA08572-C11B-4BAC-A70B-71F5BA95B444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA08572-C11B-4BAC-A70B-71F5BA95B444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A123B48F-2328-499F-AB5A-4EEB47D71D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A123B48F-2328-499F-AB5A-4EEB47D71D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A123B48F-2328-499F-AB5A-4EEB47D71D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A123B48F-2328-499F-AB5A-4EEB47D71D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9819DB4-F583-4870-9A48-7B03124C2466}
+	EndGlobalSection
+EndGlobal
